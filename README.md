@@ -1,32 +1,52 @@
 # 项目效果
 ##  上汽通用ATEV概念车自动泊车——车位识别图像算法
+
 *   算法能适应**明暗极度不均**
-![](/img/apa_output3.gif)
+
+![](img/apa_output3.gif)
+
 *   算法能适应环境的光的**突然变化** 
-![](/img/apa_output1.gif)
+
+![](img/apa_output1.gif)
+
 *   算法能适应**车位被柱子遮挡**的工况
 *   算法在**较好环境**下能**稳定识别**出**两个车位**
-![](/img/apa_output2.gif)
+
+![](img/apa_output2.gif)
+
 *   算法在**地上停车位**的识别效果,该车位颜色不均匀，噪声较大
-![](/img/apa_output.gif)
+
+![](img/apa_output.gif)
+
 ##  上汽通用ATEV概念车AR-HUD——导航箭头动画算法
+
 *   箭头符合物理规律，由近至远的同时由快变慢、由大变小
 *   箭头具有透视效果，紧贴地面运动
+
 `AR-HUD导航箭头动画算法——直行`
-![](/img/forward.gif)
+![](img/forward.gif)
+
 `AR-HUD导航箭头动画算法——左转`
-![](/img/left.gif)
+![](img/left.gif)
+
 `AR-HUD导航箭头动画算法——右转`
-![](/img/right.gif)
+![](img/right.gif)
+
 ##  在校期间校企合作项目——目标定位算法设计
+
 * 复现了**形状匹配算法**，坐标精度达一丝，角度精度达0.1度
-  ![](/img/shape_match.gif)
+  ![](img/shape_match.gif)
 
 * 算法在工厂的**应用**(视觉**精准定位**芯片与孔位的坐标与角度，实现全自动芯片转移)
 
-  ![](/img/shape_match_m.gif)
+  ![](img/shape_match_m.gif)
+
 ##  毕业设计作品——六旋翼飞行器（ARM处理器）
+
 *   实物图
-![](/img/fly1.jpg)
+
+![](img/fly1.jpg)
+
 *   原理图
-![](/img/fly2.jpg)
+
+![](img/fly2.jpg)
